@@ -8,7 +8,7 @@ The dashboard is designed as a single-page business intelligence report with KPI
 
 ---
 
-![Adidas Dashboard](AdidasDashboard.png)
+![Adidas Dashboard](Adidas Dashboard.png)
 
 ## 🎯 Objective
 
